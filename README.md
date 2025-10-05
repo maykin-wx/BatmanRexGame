@@ -24,5 +24,6 @@ O jogo será apresentado nos dias **07 e 08 de outubro de 2025** durante o event
 
 O projeto foi criado pelos alunos **Manuela, Maria Julia, Maykon e Yasmin** e faz parte da exposição de trabalhos desenvolvidos pelos estudantes.  
 
-Divirta-se jogando e explorando o mundo do Batman enquanto testa suas habilidades! 🦇
+Divirta-se! 🦇
+
 

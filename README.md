@@ -4,17 +4,11 @@ Jogo simples em 2D usando **HTML, CSS e JavaScript puro**, inspirado no famoso T
 
 Nesta versão especial, **adaptamos o jogo para o tema Batman**, deixando-o mais divertido e visualmente atraente! 🦇
 
-## 💻 Visualização do jogo
-
-<img src="./assets/images/vizualizacaoJogo.png" alt="Visualização do jogo" />
-
 ## 🎮 Como jogar
 
-- Pressione **barra de espaço** ou **seta para cima** para pular obstáculos.  
-- Evite os cactos e outros obstáculos para continuar jogando.  
+- Pressione **barra de espaço** ou **seta para cima** para pular obstáculos e  **seta para baixo** para desviar dos morcegos
+- Evite as caixas de madeira e outros obstáculos para continuar jogando.  
 - Quanto mais tempo você sobreviver, maior será a pontuação!  
-
-> Dica: tente bater seu próprio recorde!
 
 ## 🧪 Tecnologias usadas
 
@@ -31,3 +25,4 @@ O jogo será apresentado nos dias **07 e 08 de outubro de 2025** durante o event
 O projeto foi criado pelos alunos **Manuela, Maria Julia, Maykon e Yasmin** e faz parte da exposição de trabalhos desenvolvidos pelos estudantes.  
 
 Divirta-se jogando e explorando o mundo do Batman enquanto testa suas habilidades! 🦇
+
